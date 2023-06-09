@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 
 # Load the ML model
-model = pickle.load('travel_review_rating_model.pkl','rb)
+model = pickle.load('travel_review_rating_model.pkl','rb')
 
 # Streamlit app
 def main():

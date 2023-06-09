@@ -14,7 +14,7 @@ def main():
                      'Pubs_bars', 'Local_services', 'Burger_pizza_shops', 'Hotels_other_lodgings', 'Juice_bars',
                      'Art_galleries', 'Dance_clubs', 'Swimming_pools', 'Gyms', 'Bakeries', 'Beauty_spas', 'Cafes',
                      'View_points', 'Monuments', 'Gardens']:
-        ratings[category] = st.slider(f"Rate {category} (1-10)", 1, 10)
+        ratings[category] = st.slider(f"Rate {category} (1-5)", 1, 5)
 
     if st.button("Predict"):
         # Prepare input data

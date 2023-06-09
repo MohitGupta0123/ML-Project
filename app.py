@@ -1,4 +1,4 @@
-import sklearn
+import skscikit-learn
 import streamlit as st
 import pickle
 

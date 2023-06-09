@@ -1,6 +1,5 @@
 import streamlit as st
 import pickle
-import sklearn.externals as extjoblib
 import joblib
 
 # Load the ML model

@@ -1,5 +1,6 @@
 import streamlit as st
 import pickle
+import joblib as joblib
 
 # Load the ML model
 model = joblib.load(open('travel_review_rating_model.pkl', 'rb'))

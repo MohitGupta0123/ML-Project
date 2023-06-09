@@ -21,7 +21,7 @@ def main():
         input_data = [ratings[category] for category in ratings]
 
         # Predict the rating
-        prediction = model.predict([input_data])[0]
+        prediction = lr_tuned.predict([input_data])[0]
 
         st.success(f"The predicted travel review rating is: {prediction}")
 

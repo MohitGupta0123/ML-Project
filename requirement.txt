@@ -1,38 +1,5 @@
-anaconda-client==1.11.1
-anaconda-navigator==2.4.0
-
-conda==23.1.0
-conda-build==3.23.3
-conda-content-trust @ file:///C:/Windows/TEMP/abs_4589313d-fc62-4ccc-81c0-b801b4449e833j1ajrwu/croots/recipe/conda-content-trust_1658126379362/work
-conda-package-handling @ file:///C:/b/abs_fcga8w0uem/croot/conda-package-handling_1672865024290/work
-conda-repo-cli==1.0.27
-conda-token @ file:///Users/paulyim/miniconda3/envs/c3i/conda-bld/conda-token_1662660369760/work
-conda-verify==3.4.2
-conda_package_streaming @ file:///C:/b/abs_0e5n5hdal3/croot/conda-package-streaming_1670508162902/work
-docker==6.1.1
-
-gitdb==4.0.10
-GitPython==3.1.31
-
-gunicorn==20.1.0
-
-joblib==1.2.0
-
-numpy==1.23.0
-numpydoc @ file:///C:/b/abs_cfdd4zxbga/croot/numpydoc_1668085912100/work
-
-pandas @ file:///C:/b/abs_b9kefbuby2/croot/pandas_1677835593760/work
-pandas-profiling==3.6.6
-pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
-panel @ file:///C:/b/abs_55ujq2fpyh/croot/panel_1676379705003/work
-
-scikit-base==0.4.3
-scikit-image @ file:///C:/b/abs_63r0vmx78u/croot/scikit-image_1669241746873/work
-scikit-learn @ file:///C:/b/abs_7ck_bnw91r/croot/scikit-learn_1676911676133/work
-scikit-learn-intelex==20230228.214139
-scikit-optimize==0.9.0
-scikit-plot==0.3.7
-scipy==1.9.3
-
-sklearn==0.24.2
-streamlit==1.23.1
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib

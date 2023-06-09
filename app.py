@@ -1,5 +1,6 @@
 import streamlit as st
 import pickle
+pip install sklearn
 
 # Load the ML model
 model = pickle.load(open(r"travel_review_rating_model.pkl", 'rb'))

@@ -1,9 +1,8 @@
 import streamlit as st
 import pickle
-import joblib
 
 # Load the ML model
-model = joblib.load(open('travel_review_rating_model.pkl', 'rb'))
+model = joblib.load('travel_review_rating_model.pkl', 'rb')
 
 # Streamlit app
 def main():

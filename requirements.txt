@@ -1,25 +1,9 @@
-anaconda-client==1.11.1
-anaconda-navigator==2.4.0
-joblib==1.2.0
-kmodes==0.12.2
-matplotlib==3.6.3
-matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661915841596/work
-numpy==1.23.0
-numpydoc @ file:///C:/b/abs_cfdd4zxbga/croot/numpydoc_1668085912100/work
-pandas @ file:///C:/b/abs_b9kefbuby2/croot/pandas_1677835593760/work
-pandas-profiling==3.6.6
-pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
-panel @ file:///C:/b/abs_55ujq2fpyh/croot/panel_1676379705003/work
-scikit-base==0.4.3
-scikit-image @ file:///C:/b/abs_63r0vmx78u/croot/scikit-image_1669241746873/work
-scikit-learn @ file:///C:/b/abs_7ck_bnw91r/croot/scikit-learn_1676911676133/work
-scikit-learn-intelex==20230228.214139
-scikit-optimize==0.9.0
-scikit-plot==0.3.7
-scipy==1.9.3
-seaborn @ file:///C:/b/abs_68ltdkoyoo/croot/seaborn_1673479199997/work
-selenium==4.2.0
+joblib
+matplotlib
+numpy
+pandas
+scikit-base
+scipy
+seaborn
 sklearn==0.0.post5
-statsforecast==1.5.0
-statsmodels @ file:///C:/b/abs_bdqo3zaryj/croot/statsmodels_1676646249859/work
-streamlit==1.23.1
+streamlit

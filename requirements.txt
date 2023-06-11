@@ -5,5 +5,5 @@ pandas
 scikit-base
 scipy
 seaborn
-sklearn==0.0.post5
+sklearn
 streamlit
